@@ -49,6 +49,7 @@ A549_KO3 belong to Control class.
 Objective: to identify genes which are differential in tumor vs control samples
 
 Output:
+
 <img width="516" alt="image" src="https://user-images.githubusercontent.com/107881646/197228148-f4b38d9f-dc68-47e2-9ba9-0a6622f80a6f.png">
 
 for every gene:
@@ -75,3 +76,13 @@ Track upsiginificant genes in the chromosome
 
 Ssgsea Analysis:
 Single Sample Geneset Enrichment Analysis The ssGSEA method is an extension of the GSEA method, working at the level of a single sample rather than a sample population as in the original GSEA application. The score derived from ssGSEA reflects the degree to which the input gene signature is coordinately up- or downregulated within a sample.
+ Create a ssgsea function
+ 
+Read the log2 normalized data into an object for further analysis
+
+zscore the ssgsea output for comparative analysis
+
+Heatmap plot for zscore 
+
+Survival Analysis:
+
