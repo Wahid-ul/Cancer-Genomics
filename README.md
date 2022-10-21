@@ -108,4 +108,8 @@ This will include reading the count data into R, quality control, normalisation,
 
 The main part of the workflow uses the package. 
 
-I have generated some  common plots for visualising single-cell data, such as t-SNE plots and heatmaps. 
+I have generated some  common plots for visualising single-cell data, such as t-SNE plots (using dimensionality reduction technology) and heatmaps. 
+
+
+Name:
+Wahidul Alam Barbhuiya
