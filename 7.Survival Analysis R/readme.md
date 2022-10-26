@@ -12,7 +12,8 @@ it retains the 686 patients with complete data for the prognostic variables.
 A data set with 686 observations and 11 variables.
 
 Format:
-pid - patient identifier
+
+**pid** - patient identifier
 
 **age**  -age, years
 
