@@ -87,6 +87,8 @@ Heatmap plot for zscore
 
 Survival Analysis:
 
+Survival Analysis using bulk cancer types:
+
 Survival analysis is a set of statistical approaches used to find out the time it takes for an event of interest to occur. 
 
 Survival analysis is used to study the time until some event of interest (often referred to as death) occurs. 
@@ -100,6 +102,9 @@ Time could be measured in years, months, weeks, days, etc. In cancer studies, mo
   (3) Log-rank test to compare the survival curves of two or more groups 
   
   (4) Cox proportional hazards regression to find out the effect of different variables like age, sex, race on survival.
+  
+Survival analysis of Breast cancer using R:
+ With the help of  R inbuild lbrary survival I have ploted survival plobability of different attributes. 
 
 10X single-cell RNA-seq analysis :
 
