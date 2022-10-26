@@ -33,3 +33,6 @@ pid - patient identifier
 **rfstime**   -recurrence free survival time; days to first of reccurence, death or last follow-up
 
 **status**    -0= alive without recurrence, 1= recurrence or death
+
+**References**
+Patrick Royston and Douglas Altman, External validation of a Cox prognostic model: principles and methods. BMC Medical Research Methodology 2013, 13:33
