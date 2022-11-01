@@ -116,5 +116,5 @@ The main part of the workflow uses the package.
 I have generated some  common plots for visualising single-cell data, such as t-SNE plots (using dimensionality reduction technology) and heatmaps. 
 
 
-***Name:
-Wahidul Alam Barbhuiya***
+***Name:***
+***Wahidul Alam Barbhuiya***
