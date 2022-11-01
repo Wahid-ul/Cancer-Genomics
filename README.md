@@ -103,7 +103,7 @@ Time could be measured in years, months, weeks, days, etc. In cancer studies, mo
   
   (4) Cox proportional hazards regression to find out the effect of different variables like age, sex, race on survival.
   
-**Survival analysis of Breast cancer using R:***
+**Survival analysis of Breast cancer using R:**
  With the help of  R inbuild lbrary survival I have ploted survival plobability of different attributes. 
 
 **10X single-cell RNA-seq analysis :**
@@ -117,4 +117,4 @@ I have generated some  common plots for visualising single-cell data, such as t-
 
 
 ***Name:
-Wahidul Alam Barbhuiya
+Wahidul Alam Barbhuiya***
