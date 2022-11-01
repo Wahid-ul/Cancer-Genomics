@@ -8,7 +8,7 @@ are widely used with microarray and RNA-seq
 
 For gene expression we are taking GEO database and my case study has lymphoma cancer type of RNA sequence which I have collected from NCBI GEO database
 
-*FIle link: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE145011*
+*File link: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE145011*
 
 **File:** "GSE145011_RCK8_WT_KO_readcounts.txt"
 
