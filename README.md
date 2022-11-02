@@ -77,7 +77,8 @@ Track upsiginificant genes in the chromosome
 **Ssgsea Analysis:**
 
 Single Sample Geneset Enrichment Analysis The ssGSEA method is an extension of the GSEA method, working at the level of a single sample rather than a sample population as in the original GSEA application. The score derived from ssGSEA reflects the degree to which the input gene signature is coordinately up- or downregulated within a sample.
- Create a ssgsea function
+
+Create a ssgsea function
  
 Read the log2 normalized data into an object for further analysis
 
